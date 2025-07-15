@@ -112,4 +112,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have any questions or issues, please open an issue on GitHub or contact [hrushikesh1812.com](mailto:hrushikesh1812@gmail.com).
+If you have any questions or issues, please open an issue on GitHub or contact [hrushikesh1812@gmail.com](mailto:hrushikesh1812@gmail.com).
