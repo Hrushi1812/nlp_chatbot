@@ -102,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/Hrushi1812)
+- Hrushikesh Peddi - Initial work - [GitHub](https://github.com/Hrushi1812)
 
 ## 🙏 Acknowledgments
 
