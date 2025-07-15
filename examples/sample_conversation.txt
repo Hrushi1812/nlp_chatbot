@@ -1,0 +1,19 @@
+=== Sample Conversation with NLP Chatbot ===
+
+User: Hello!
+Bot: Hello! How can I help you today?
+
+User: My name is Sarah
+Bot: Nice to meet you, Sarah! How can I help you today?
+
+User: What can you do?
+Bot: I can chat with you about various topics! Try asking me about myself, saying hello, or just having a conversation.
+
+User: Tell me about yourself
+Bot: I'm a simple chatbot created to help you!
+
+User: Thanks for the help
+Bot: You're welcome! Happy to help!
+
+User: goodbye
+Bot: Goodbye! Have a great day!

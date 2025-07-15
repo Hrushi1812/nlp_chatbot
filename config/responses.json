@@ -1,0 +1,36 @@
+{
+  "greeting": [
+    "Hello! How can I help you today?",
+    "Hi there! What's on your mind?",
+    "Hey! Nice to meet you!",
+    "Greetings! How are you doing?"
+  ],
+  "goodbye": [
+    "Goodbye! Have a great day!",
+    "See you later! Take care!",
+    "Bye! It was nice talking to you!",
+    "Farewell! Come back anytime!"
+  ],
+  "thanks": [
+    "You're welcome! Happy to help!",
+    "No problem at all!",
+    "Glad I could assist you!",
+    "Anytime! That's what I'm here for!"
+  ],
+  "name": [
+    "I'm a simple chatbot created to help you!",
+    "You can call me ChatBot! I'm here to assist you.",
+    "I'm your friendly AI assistant!"
+  ],
+  "help": [
+    "I can chat with you about various topics! Try asking me about myself, saying hello, or just having a conversation.",
+    "I'm here to chat! You can ask me questions, tell me about yourself, or just talk.",
+    "I can help with basic conversation. Feel free to ask me anything!"
+  ],
+  "default": [
+    "I'm not sure I understand. Can you rephrase that?",
+    "That's interesting! Can you tell me more?",
+    "I'm still learning. Could you ask that differently?",
+    "I'm not quite sure about that. What else would you like to talk about?"
+  ]
+}
