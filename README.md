@@ -25,8 +25,8 @@ A simple yet powerful chatbot built with Python and NLTK that can engage in natu
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/nlp-chatbot.git
-cd nlp-chatbot
+git clone https://github.com/Hrushi1812/nlp_chatbot.git
+cd nlp_chatbot
 ```
 
 2. **Install dependencies:**
